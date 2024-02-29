@@ -2,6 +2,7 @@
   "name": "ticket_flash",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Prasath007SR.github.io/MovieTicketBooking", 
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
