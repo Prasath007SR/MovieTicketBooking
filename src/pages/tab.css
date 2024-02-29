@@ -1,0 +1,78 @@
+.abc123 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://www.shutterstock.com/image-illustration/flat-web-banner-on-theme-260nw-390491551.jpg");
+    background-repeat: no-repeat;
+    height: 120vh;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+  }
+  
+  .heading001 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .table123 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .table2 {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  #customers {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #customers th,
+  #customers td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  #customers th {
+    background-color: #f2f2f2;
+  }
+  
+  #customers tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .heltab {
+    text-align: center;
+  }
+  
+  .buttons01 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .viewbtn,
+  .editbtn,
+  .deletebtn {
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .viewbtn {
+    background-color: #3f51b5;
+  }
+  
+  .editbtn {
+    background-color: #009688;
+  }
+  
+  .deletebtn {
+    background-color: #f44336;
+  }

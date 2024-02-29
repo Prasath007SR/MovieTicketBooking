@@ -1,0 +1,21 @@
+.media15{
+    position: relative;
+    left: 100px;
+    }
+    .s15{
+        padding: 25px;
+        position: relative;
+        left: 30px;
+        text-align:right;
+    }
+    .u15{
+        text-align: center;
+        color: gray;
+    }
+    .j15{
+        color: gray;
+    }
+    .nn15{
+        text-align: center;
+    }
+

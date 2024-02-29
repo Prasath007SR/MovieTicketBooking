@@ -1,0 +1,22 @@
+.toolbar
+{
+    background-color:rgb(51, 53, 69);
+}
+.btn_adduser{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    border-color: rgb(0, 0, 255);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.btn_adduser:hover{
+    background-color: rgb(58, 9, 82);
+    transform: scale(1.05);
+    transform-style:initial;
+    transition: 400ms;
+    color: rgb(255, 255, 255);
+}

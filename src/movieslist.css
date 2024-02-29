@@ -1,0 +1,55 @@
+.topp{
+    background-color: rgb(48, 93, 230);
+    text-align: "center";
+
+}
+.imag{
+   align-items: center;
+   
+}
+.av{
+  border-radius: 20px;
+}
+.img-resize{
+  margin-top: 50px;
+  font-family:cursive ;
+  font-size:larger;
+}
+.te{
+  align-content: inherit;
+  display: flex;
+  
+}
+.example:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.upmovies{
+  text-align: center;
+  background-color: rgb(48, 93, 230);
+  font-size: large;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  border-width: 20px 5px;
+  padding: 2px;
+
+}
+.white18{
+  color: white;
+}
+.hp{
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.eve18{
+  position: relative;
+  left: 260px;
+}
+.ev18{
+  position: relative;
+  left: 30px;
+}
+
+.kin{
+ padding-bottom: 29px;
+}
