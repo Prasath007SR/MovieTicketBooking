@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MovieTicketBooking/static/css/main.8f302807.css",
+    "main.js": "/MovieTicketBooking/static/js/main.b54fd7fe.js",
+    "static/js/787.4e7d0d4a.chunk.js": "/MovieTicketBooking/static/js/787.4e7d0d4a.chunk.js",
+    "static/media/spacex.gif": "/MovieTicketBooking/static/media/spacex.9fe4b22e7193cfc373b5.gif",
+    "static/media/tesla.gif": "/MovieTicketBooking/static/media/tesla.c6652f141e3cafd42ffb.gif",
+    "static/media/loginbg.jpg": "/MovieTicketBooking/static/media/loginbg.7f973a5c992c5f5158f9.jpg",
+    "static/media/apple.gif": "/MovieTicketBooking/static/media/apple.06b592a4778f07c29d11.gif",
+    "static/media/google.gif": "/MovieTicketBooking/static/media/google.0edb5fb6ab8fd1a33cf1.gif",
+    "static/media/Avatar2.jpg": "/MovieTicketBooking/static/media/Avatar2.e477932f6e9b3cd4baf3.jpg",
+    "static/media/Badam.jpeg": "/MovieTicketBooking/static/media/Badam.a42099b5065f336383ef.jpeg",
+    "static/media/panther2.jpg": "/MovieTicketBooking/static/media/panther2.9a2b846d55be2d95f6ff.jpg",
+    "static/media/logo.svg": "/MovieTicketBooking/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MovieTicketBooking/index.html",
+    "main.8f302807.css.map": "/MovieTicketBooking/static/css/main.8f302807.css.map",
+    "main.b54fd7fe.js.map": "/MovieTicketBooking/static/js/main.b54fd7fe.js.map",
+    "787.4e7d0d4a.chunk.js.map": "/MovieTicketBooking/static/js/787.4e7d0d4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f302807.css",
+    "static/js/main.b54fd7fe.js"
+  ]
+}
